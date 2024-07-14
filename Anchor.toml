@@ -11,7 +11,7 @@ whitelist_token_sale = "8CfNbqPDAVDWZhTWEKg475aRzERSkXhRd4R37CHBShhQ"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "/Users/akshatsharma/.config/solana/id.json"
 
 [scripts]
